@@ -1,0 +1,10 @@
+SMAP
+regi_jsp.java
+JSP
+*S JSP
+*F
++ 0 regi.jsp
+WEB-INF/regi.jsp
+*L
+1,40:44
+*E
